@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/api-M9FCqfWKLF]([(https://www.frontendmentor.io/solutions/api-M9FCqfWKLF)])
-- Live Site URL: [https://marianaceci.github.io/Frontend-Mentor-advice-generator-app/]([(https://marianaceci.github.io/Frontend-Mentor-advice-generator-app/)])
+- Solution URL: [https://www.frontendmentor.io/solutions/api-M9FCqfWKLF](https://www.frontendmentor.io/solutions/api-M9FCqfWKLF)
+- Live Site URL: [https://marianaceci.github.io/Frontend-Mentor-advice-generator-app/](https://marianaceci.github.io/Frontend-Mentor-advice-generator-app/)
 
 ## My process
 
