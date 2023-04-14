@@ -7,7 +7,7 @@ function getAdvice() {
             //console.log(data.slip.advice)
             //console.log(data.slip.id)
 
-            document.getElementById('adviceText').innerText = data.slip.advice
+            document.getElementById('adviceText').innerText = `"${data.slip.advice}"`
             document.getElementById('adviceId').innerText = data.slip.id
         })
         .catch(err => {
